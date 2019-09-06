@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kabili207.github.io
+Token: 29ef382c833697f54ad439f725c7ba135ddca7058fd91a96cadbdf8ac1ed6312
